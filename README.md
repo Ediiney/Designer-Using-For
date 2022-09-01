@@ -2,6 +2,8 @@
 Brincando com For, criando formar.
 
 Output:
+
+
          *         
         ***        
        *****       
